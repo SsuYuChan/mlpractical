@@ -1,0 +1,58 @@
+MLP Coursework 3
+February 2016
+
+Marking scheme
+
+Student ID:  s1637356
+
+Total Mark: 68/100
+
+
+1.   Research questions to be investigated (10 marks).  
+Marks awarded for clear presentation of the research questions you are exploring.
+ - introduction and motivation [3/5]
+ - research questions [5/5]
+
+Good range of experiments with a very good effort to state the research questions clearly. Could have given more introductory details, focusing on background material.
+
+2.   Methods (30 marks).  
+Marks awarded for clear presentation of the methods (network architectures, learning schedules, etc.) that were used, and an outline of how they were implemented in TensorFlow.
+ - motivation for methods and experimental design [6/10]
+ - presentation of methods used [15/20]
+
+
+Overall okay experimental design with some motivation and some implementation details. It would have been interesting to connect some of these designs with background information and focus less on a procedural description of the implementation, for example.
+
+
+3.   Results and discussion (40 marks).  
+Marks awarded for clear presentation of results, discussion and interpretation of results, conclusions.
+ - presentation of results [14/20]
+ - discussion and interpretation of results [5/10]
+ - conclusions [6/10]
+
+OKay presentation of the results with tables to support the graphs. Could have been more throrough in the discussion and attempted perhaps some type of visualization of the results or systems. For example, how do the weights change across the regularization systems?
+
+4.   Presentation and clarity of report (20 marks). 
+Marks awarded for overall structure, clear and concise presentation, providing enough information to enable work to be reproduced, clear and concise presentation of results, informative discussion and conclusions.
+ - overall structure, organisation, and writing style [4/5]
+ - clear description of experiments, reproducibility [3/5]
+ - presentation of results [4/5]
+ - discussion and conclusion [3/5]
+
+
+Well-structured report.
+
+
+5.   Additional Comments.
+
+
+
+Comments on Further Work:
+
+Needs more detail!
+
+For general comments on coursework 4 please see the FAQ on the course webpage:
+http://www.inf.ed.ac.uk/teaching/courses/mlp/2016/cw4-faq.html
+This will be updated as new questions are asked.  Of course, also look at the Piazza forum.
+
+
