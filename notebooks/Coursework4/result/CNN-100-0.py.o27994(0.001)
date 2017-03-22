@@ -1,0 +1,100 @@
+End of epoch 01: err(train)=4.47 acc(train)=0.04 running time=424.90
+                 err(valid)=4.17 acc(valid)=0.08
+End of epoch 02: err(train)=3.97 acc(train)=0.10 running time=385.61
+                 err(valid)=3.81 acc(valid)=0.13
+End of epoch 03: err(train)=3.69 acc(train)=0.15 running time=382.25
+                 err(valid)=3.59 acc(valid)=0.17
+End of epoch 04: err(train)=3.49 acc(train)=0.18 running time=382.94
+                 err(valid)=3.44 acc(valid)=0.19
+End of epoch 05: err(train)=3.34 acc(train)=0.21 running time=381.63
+                 err(valid)=3.34 acc(valid)=0.21
+End of epoch 06: err(train)=3.21 acc(train)=0.23 running time=380.82
+                 err(valid)=3.24 acc(valid)=0.23
+End of epoch 07: err(train)=3.10 acc(train)=0.26 running time=381.02
+                 err(valid)=3.16 acc(valid)=0.24
+End of epoch 08: err(train)=2.99 acc(train)=0.28 running time=391.19
+                 err(valid)=3.08 acc(valid)=0.26
+End of epoch 09: err(train)=2.89 acc(train)=0.30 running time=380.08
+                 err(valid)=3.04 acc(valid)=0.27
+End of epoch 10: err(train)=2.79 acc(train)=0.31 running time=381.47
+                 err(valid)=3.00 acc(valid)=0.28
+End of epoch 11: err(train)=2.70 acc(train)=0.33 running time=346.96
+                 err(valid)=2.97 acc(valid)=0.28
+End of epoch 12: err(train)=2.61 acc(train)=0.35 running time=307.78
+                 err(valid)=2.95 acc(valid)=0.29
+End of epoch 13: err(train)=2.52 acc(train)=0.37 running time=307.69
+                 err(valid)=2.88 acc(valid)=0.30
+End of epoch 14: err(train)=2.43 acc(train)=0.39 running time=307.66
+                 err(valid)=2.87 acc(valid)=0.31
+End of epoch 15: err(train)=2.34 acc(train)=0.41 running time=306.34
+                 err(valid)=2.86 acc(valid)=0.31
+End of epoch 16: err(train)=2.24 acc(train)=0.43 running time=307.70
+                 err(valid)=2.83 acc(valid)=0.32
+End of epoch 17: err(train)=2.14 acc(train)=0.45 running time=305.28
+                 err(valid)=2.85 acc(valid)=0.32
+End of epoch 18: err(train)=2.04 acc(train)=0.47 running time=307.33
+                 err(valid)=2.85 acc(valid)=0.32
+End of epoch 19: err(train)=1.94 acc(train)=0.49 running time=308.40
+                 err(valid)=2.89 acc(valid)=0.32
+End of epoch 20: err(train)=1.84 acc(train)=0.52 running time=307.22
+                 err(valid)=2.88 acc(valid)=0.32
+End of epoch 21: err(train)=1.74 acc(train)=0.54 running time=306.75
+                 err(valid)=2.94 acc(valid)=0.33
+End of epoch 22: err(train)=1.62 acc(train)=0.57 running time=305.95
+                 err(valid)=2.96 acc(valid)=0.33
+End of epoch 23: err(train)=1.50 acc(train)=0.60 running time=306.58
+                 err(valid)=3.04 acc(valid)=0.32
+End of epoch 24: err(train)=1.39 acc(train)=0.62 running time=307.69
+                 err(valid)=3.10 acc(valid)=0.32
+End of epoch 25: err(train)=1.27 acc(train)=0.66 running time=305.96
+                 err(valid)=3.21 acc(valid)=0.32
+End of epoch 26: err(train)=1.15 acc(train)=0.68 running time=305.91
+                 err(valid)=3.29 acc(valid)=0.32
+End of epoch 27: err(train)=1.03 acc(train)=0.72 running time=306.32
+                 err(valid)=3.36 acc(valid)=0.31
+End of epoch 28: err(train)=0.92 acc(train)=0.74 running time=305.16
+                 err(valid)=3.52 acc(valid)=0.31
+End of epoch 29: err(train)=0.82 acc(train)=0.77 running time=305.19
+                 err(valid)=3.65 acc(valid)=0.31
+End of epoch 30: err(train)=0.71 acc(train)=0.81 running time=253.06
+                 err(valid)=3.71 acc(valid)=0.32
+End of epoch 31: err(train)=0.61 acc(train)=0.83 running time=204.09
+                 err(valid)=3.84 acc(valid)=0.32
+End of epoch 32: err(train)=0.51 acc(train)=0.86 running time=177.92
+                 err(valid)=3.94 acc(valid)=0.32
+End of epoch 33: err(train)=0.43 acc(train)=0.89 running time=179.05
+                 err(valid)=4.12 acc(valid)=0.32
+End of epoch 34: err(train)=0.36 acc(train)=0.91 running time=177.05
+                 err(valid)=4.24 acc(valid)=0.32
+End of epoch 35: err(train)=0.30 acc(train)=0.93 running time=177.71
+                 err(valid)=4.38 acc(valid)=0.32
+End of epoch 36: err(train)=0.24 acc(train)=0.94 running time=178.47
+                 err(valid)=4.50 acc(valid)=0.32
+End of epoch 37: err(train)=0.19 acc(train)=0.96 running time=177.82
+                 err(valid)=4.57 acc(valid)=0.32
+End of epoch 38: err(train)=0.13 acc(train)=0.97 running time=178.27
+                 err(valid)=4.71 acc(valid)=0.32
+End of epoch 39: err(train)=0.10 acc(train)=0.98 running time=178.62
+                 err(valid)=4.87 acc(valid)=0.32
+End of epoch 40: err(train)=0.08 acc(train)=0.99 running time=194.16
+                 err(valid)=4.96 acc(valid)=0.32
+End of epoch 41: err(train)=0.06 acc(train)=0.99 running time=296.29
+                 err(valid)=5.05 acc(valid)=0.32
+End of epoch 42: err(train)=0.04 acc(train)=1.00 running time=266.63
+                 err(valid)=5.10 acc(valid)=0.33
+End of epoch 43: err(train)=0.03 acc(train)=1.00 running time=248.91
+                 err(valid)=5.20 acc(valid)=0.33
+End of epoch 44: err(train)=0.03 acc(train)=1.00 running time=256.34
+                 err(valid)=5.23 acc(valid)=0.34
+End of epoch 45: err(train)=0.02 acc(train)=1.00 running time=248.45
+                 err(valid)=5.29 acc(valid)=0.33
+End of epoch 46: err(train)=0.02 acc(train)=1.00 running time=248.19
+                 err(valid)=5.36 acc(valid)=0.33
+End of epoch 47: err(train)=0.02 acc(train)=1.00 running time=248.41
+                 err(valid)=5.39 acc(valid)=0.33
+End of epoch 48: err(train)=0.01 acc(train)=1.00 running time=247.75
+                 err(valid)=5.46 acc(valid)=0.33
+End of epoch 49: err(train)=0.02 acc(train)=1.00 running time=248.11
+                 err(valid)=5.45 acc(valid)=0.33
+End of epoch 50: err(train)=0.01 acc(train)=1.00 running time=248.75
+                 err(valid)=5.53 acc(valid)=0.33
